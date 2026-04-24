@@ -1,0 +1,37 @@
+[
+  {
+    "full_name": "Daoudi Zineddine Abdelbaki",
+    "academic_level": "Master One",
+    "age": 22,
+    "university_name": "Mohammed El Bachir El Ibrahimi",
+    "field_of_study": "Decision Engineering"
+  },
+  {
+    "full_name": "Akhrouf Abderraouf",
+    "academic_level": "Master One",
+    "age": 21,
+    "university_name": "Mohammed El Bachir El Ibrahimi",
+    "field_of_study": "Decision Engineering"
+  },
+  {
+    "full_name": "Mebarkia Hamza",
+    "academic_level": "Master One",
+    "age": 22,
+    "university_name": "Mohammed El Bachir El Ibrahimi",
+    "field_of_study": "Decision Engineering"
+  },
+  {
+    "full_name": "Aymane Bouziane Fadel Errahmane",
+    "academic_level": "Master Two",
+    "age": 22,
+    "university_name": "USTHB Bab Ezzouar",
+    "field_of_study": "Renewable Energies and Energy Efficiencies"
+  },
+  {
+    "full_name": "Yassine Mili",
+    "academic_level": "M1",
+    "age": 23,
+    "university_name": "Universite Msila",
+    "field_of_study": "SIGL"
+  }
+]

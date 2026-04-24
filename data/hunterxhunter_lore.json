@@ -1,0 +1,512 @@
+[
+  {
+    "id": "char_gon",
+    "category": "character",
+    "title": "Gon Freecss",
+    "content": "Gon Freecss is the main protagonist of Hunter x Hunter. He is a young boy who was raised on Whale Island by his aunt Mito. He discovers his father Ging Freecss is a Hunter and decides to become a Hunter to find him. Gon is an Enhancer in the Nen system. His main ability is called Jajanken, which has three forms: Rock (a powerful punch charged with aura), Paper (an aura blast), and Scissors (a blade of aura). Gon is known for his incredible determination, enhanced senses, and his ability to befriend almost anyone. During the Chimera Ant arc, Gon sacrifices all his potential to transform into an adult version of himself to defeat Neferpitou.",
+    "keywords": [
+      "Gon",
+      "Freecss",
+      "protagonist",
+      "Whale Island",
+      "Enhancement",
+      "Jajanken",
+      "Ging"
+    ]
+  },
+  {
+    "id": "char_killua",
+    "category": "character",
+    "title": "Killua Zoldyck",
+    "content": "Killua Zoldyck is the deuteragonist and Gon best friend. He is the third child of the famous Zoldyck family of assassins. Killua is a Transmuter. His main ability is Godspeed (Kanmuru), which uses his aura to create electricity. Godspeed has two components: Speed of Lightning (automatic dodging) and Whirlwind (preprogrammed movements). Killua was trained as an assassin from birth, giving him incredible reflexes, pain tolerance, and combat skills. He has a needle implanted by his brother Illumi that makes him flee from enemies he cannot defeat, which he eventually removes. He deeply cares for his younger sister Alluka/Nanika.",
+    "keywords": [
+      "Killua",
+      "Zoldyck",
+      "assassin",
+      "Transmuter",
+      "Godspeed",
+      "electricity",
+      "Alluka"
+    ]
+  },
+  {
+    "id": "char_kurapika",
+    "category": "character",
+    "title": "Kurapika",
+    "content": "Kurapika is the last survivor of the Kurta Clan, whose members were massacred by the Phantom Troupe for their Scarlet Eyes. When a Kurta clan member experiences intense emotion, their eyes turn scarlet and are considered one of the most beautiful colors in the world. Kurapika is a Conjurer, but when his eyes turn scarlet he becomes a Specialist. His main ability is Chain Jail, a set of five chains on his right hand, each with a different ability. Chain Jail can only be used on Phantom Troupe members. Holy Chain heals injuries. Dowsing Chain finds people. Judgment Chain places a blade on the heart. Emperor Time activates all Nen types at 100% but shortens his lifespan.",
+    "keywords": [
+      "Kurapika",
+      "Kurta",
+      "Scarlet Eyes",
+      "Phantom Troupe",
+      "Conjurer",
+      "chains",
+      "Emperor Time"
+    ]
+  },
+  {
+    "id": "char_leorio",
+    "category": "character",
+    "title": "Leorio Paradinight",
+    "content": "Leorio Paradinight is one of the four main protagonists. He wants to become a doctor to help those who cannot afford medical care, motivated by the death of his childhood friend Pietro from a curable disease. Leorio is an Emitter. Despite appearing older, he is actually a teenager during the Hunter Exam. He becomes a medical student and later gains recognition during the 13th Chairman Election arc when he punches Ging Freecss on live television, earning massive public support. He is elected as part of the new Zodiac Twelve as the Boar.",
+    "keywords": [
+      "Leorio",
+      "Paradinight",
+      "doctor",
+      "Emitter",
+      "Zodiac",
+      "medical"
+    ]
+  },
+  {
+    "id": "char_hisoka",
+    "category": "character",
+    "title": "Hisoka Morow",
+    "content": "Hisoka Morow is a mysterious and powerful antagonist. He is obsessed with fighting strong opponents and often lets potential targets grow stronger before fighting them. Hisoka is a Transmuter. His main abilities are Bungee Gum (aura with properties of both rubber and gum) and Texture Surprise (changes surface appearance of flat objects). He was formerly a member of the Phantom Troupe as member number 4. He fights Chrollo at Heavens Arena and loses but survives by using Bungee Gum to restart his heart. Hisoka uses a deck of cards as deadly weapons.",
+    "keywords": [
+      "Hisoka",
+      "Morow",
+      "Transmuter",
+      "Bungee Gum",
+      "Texture Surprise",
+      "cards",
+      "Phantom Troupe"
+    ]
+  },
+  {
+    "id": "char_chrollo",
+    "category": "character",
+    "title": "Chrollo Lucilfer",
+    "content": "Chrollo Lucilfer is the leader and founder of the Phantom Troupe (also called the Spider). He is from Meteor City and is a Specialist. His ability is Skill Hunter (Bandit Secret), a book that allows him to steal other peoples Nen abilities. To steal an ability he must: see the ability, ask about it, have the victim touch the handprint on the book cover, and complete all steps within one hour. He later upgrades to Bookmark, allowing him to use a stolen ability while the book is closed. Chrollo is calm, intelligent, and deeply loyal to the Spider.",
+    "keywords": [
+      "Chrollo",
+      "Lucilfer",
+      "Phantom Troupe",
+      "Spider",
+      "Specialist",
+      "Skill Hunter",
+      "Meteor City"
+    ]
+  },
+  {
+    "id": "char_meruem",
+    "category": "character",
+    "title": "Meruem",
+    "content": "Meruem is the King of the Chimera Ants and the most powerful character in the series. He was born prematurely by ripping out of his mother Queen. Meruem is incredibly intelligent and physically powerful. He initially views humans as inferior but develops compassion through playing Gungi with a blind girl named Komugi. His Royal Guards are Neferpitou, Shaiapouf, and Menthuthuyoupi. He fights Chairman Netero in one of the most iconic battles in anime. Netero uses the Poor Mans Rose bomb as a last resort, which ultimately kills Meruem through radiation poisoning. Meruem spends his final moments with Komugi.",
+    "keywords": [
+      "Meruem",
+      "Chimera Ant",
+      "King",
+      "Komugi",
+      "Gungi",
+      "Netero",
+      "Royal Guard"
+    ]
+  },
+  {
+    "id": "char_netero",
+    "category": "character",
+    "title": "Isaac Netero",
+    "content": "Isaac Netero is the 12th Chairman of the Hunter Association and one of the strongest Nen users. He spent years training in martial arts in solitude, punching 10000 times a day until his fists surpassed the speed of sound. His ability is 100-Type Guanyin Bodhisattva, which summons a giant golden statue with multiple arms that can attack at incredible speed. He fights Meruem and when he realizes he cannot win, he detonates the Poor Mans Rose, a miniature nuclear bomb implanted in his chest. Netero founded the Hunter Association and created the Hunter Exam.",
+    "keywords": [
+      "Netero",
+      "Chairman",
+      "Hunter Association",
+      "Guanyin Bodhisattva",
+      "martial arts"
+    ]
+  },
+  {
+    "id": "char_ging",
+    "category": "character",
+    "title": "Ging Freecss",
+    "content": "Ging Freecss is Gon father and one of the greatest Hunters alive. He is a Double Star Ruins Hunter and a former member of the Zodiac Twelve as the Boar. Ging is considered one of the top five Nen users in the world. He is one of the creators of the Greed Island game along with his friends. Despite abandoning Gon, he is not portrayed as evil but rather someone consumed by his passions. Ging has the ability to replicate any strike-based ability after being hit by it.",
+    "keywords": [
+      "Ging",
+      "Freecss",
+      "Ruins Hunter",
+      "Zodiac",
+      "Greed Island",
+      "father"
+    ]
+  },
+  {
+    "id": "char_neferpitou",
+    "category": "character",
+    "title": "Neferpitou",
+    "content": "Neferpitou is one of the three Royal Guards of Meruem. They are the first Royal Guard born and are a cat-like Chimera Ant. Pitou is a Specialist whose abilities include Doctor Blythe (a puppet that can perform surgery and healing), Terpsichora (a puppet that enhances combat abilities), and Puppeteer (which controls others using puppet strings). Pitou was tasked with using Doctor Blythe on Komugi and later healed Kite body but could not restore his mind. Gon kills Pitou after his transformation.",
+    "keywords": [
+      "Neferpitou",
+      "Pitou",
+      "Royal Guard",
+      "Chimera Ant",
+      "Doctor Blythe",
+      "Specialist"
+    ]
+  },
+  {
+    "id": "arc_exam",
+    "category": "arc",
+    "title": "Hunter Exam Arc",
+    "content": "The Hunter Exam arc is the first arc of Hunter x Hunter. It follows Gon, Killua, Kurapika, and Leorio as they attempt to pass the Hunter Exam to become licensed Hunters. The exam consists of multiple phases: a long underground tunnel run led by Satotz, a cooking challenge by Menchi and Buhara, survival on Zevil Island where examinees must collect number plates, and a final tournament at Trick Tower. Gon meets Killua during the exam and they become best friends. Hisoka appears as a dangerous examinee. Killua fails the exam after killing another applicant due to Illumi manipulation.",
+    "keywords": [
+      "Hunter Exam",
+      "Satotz",
+      "Trick Tower",
+      "Zevil Island",
+      "Phase"
+    ]
+  },
+  {
+    "id": "arc_zoldyck",
+    "category": "arc",
+    "title": "Zoldyck Family Arc",
+    "content": "The Zoldyck Family arc follows Gon, Kurapika, and Leorio as they travel to Kukuroo Mountain to rescue Killua from his family. The Zoldyck estate is guarded by the Testing Gate, massive doors that weigh tons. The family includes Silva (father), Kikyo (mother), Illumi, Milluki, Killua, Alluka, and Kalluto. They also have butlers including Gotoh and Canary. The family lives on the top of Kukuroo Mountain with their trained dog Mike guarding the grounds.",
+    "keywords": [
+      "Zoldyck",
+      "Kukuroo Mountain",
+      "Testing Gate",
+      "Silva",
+      "Kikyo",
+      "family"
+    ]
+  },
+  {
+    "id": "arc_heavens",
+    "category": "arc",
+    "title": "Heavens Arena Arc",
+    "content": "The Heavens Arena arc takes place in a 251-floor tower where fighters compete for money and glory. Gon and Killua go there to train and earn money. They meet Wing, who teaches them Nen. Hisoka waits on the 200th floor for Gon to learn Nen. Gon fights Hisoka and manages to return his tag from the Hunter Exam. This arc introduces the Nen power system, including Ten, Zetsu, Ren, and Hatsu. Zushi is another student of Wing who trains alongside them.",
+    "keywords": [
+      "Heavens Arena",
+      "tower",
+      "Wing",
+      "Nen",
+      "floor master",
+      "Zushi",
+      "200th floor"
+    ]
+  },
+  {
+    "id": "arc_yorknew",
+    "category": "arc",
+    "title": "Yorknew City Arc",
+    "content": "The Yorknew City arc centers on the annual auction in Yorknew City and Kurapika vendetta against the Phantom Troupe. The Phantom Troupe attacks the auction to steal valuable items. Kurapika captures Chrollo using Chain Jail and forces a hostage exchange with Pakunoda. Gon and Killua are captured by the Troupe but eventually freed. This arc showcases the full power of the Phantom Troupe and develops Kurapika character significantly. The Shadow Beasts, bodyguards of the Mafia Dons, are defeated by the Troupe.",
+    "keywords": [
+      "Yorknew",
+      "auction",
+      "Phantom Troupe",
+      "Kurapika",
+      "Mafia",
+      "Chain Jail",
+      "Pakunoda"
+    ]
+  },
+  {
+    "id": "arc_greed",
+    "category": "arc",
+    "title": "Greed Island Arc",
+    "content": "The Greed Island arc takes place inside a video game created by Ging and his friends. Players enter the game using Nen and must collect 100 specified slot cards to win. Gon and Killua enter to find clues about Ging. They train under Biscuit Krueger (Bisky), a Double Star Stone Hunter who appears as a young girl but is actually a muscular adult. The main antagonist is Genthru the Bomber. Key game mechanics include spell cards like Accompany and Magnetic Force. Gon wins the game and uses Accompany to find Ging associate Kite.",
+    "keywords": [
+      "Greed Island",
+      "game",
+      "cards",
+      "Bisky",
+      "Genthru",
+      "Bomber",
+      "spell cards",
+      "Ging"
+    ]
+  },
+  {
+    "id": "arc_chimera",
+    "category": "arc",
+    "title": "Chimera Ant Arc",
+    "content": "The Chimera Ant arc is the longest and most complex arc. Chimera Ants are insect creatures that reproduce by consuming other species and passing on their traits. The Queen lands in the NGL (Neo-Green Life) autonomous region and begins producing soldier ants. She eventually gives birth to the King, Meruem. The Royal Guards are Neferpitou, Shaiapouf, and Menthuthuyoupi. Chairman Netero leads an extermination team including Morel and Knov. The Palace Invasion is the climax where multiple battles happen simultaneously. Netero fights Meruem and uses the Poor Mans Rose. Gon transforms to defeat Pitou. Meruem dies from the Rose poison while playing Gungi with Komugi.",
+    "keywords": [
+      "Chimera Ant",
+      "NGL",
+      "Meruem",
+      "Queen",
+      "Royal Guard",
+      "Palace Invasion",
+      "Netero",
+      "Rose"
+    ]
+  },
+  {
+    "id": "arc_election",
+    "category": "arc",
+    "title": "13th Chairman Election Arc",
+    "content": "The Election arc follows the selection of a new Hunter Association Chairman after Netero death. The Zodiac Twelve organize the election. Gon is in critical condition after his transformation and Killua seeks Alluka/Nanika power to heal him. Alluka has the ability to grant wishes through Nanika, a mysterious entity inside her, but at a terrible cost to others. Pariston Hill and Cheadle Yorkshire are major candidates. Leorio gains popularity after punching Ging. Gon is healed and finally meets his father Ging at the World Tree.",
+    "keywords": [
+      "Election",
+      "Chairman",
+      "Zodiac",
+      "Alluka",
+      "Nanika",
+      "Pariston",
+      "World Tree",
+      "Ging"
+    ]
+  },
+  {
+    "id": "nen_overview",
+    "category": "nen",
+    "title": "Nen System Overview",
+    "content": "Nen is the ability to use the life energy or aura that flows through every living body. It is the primary power system in Hunter x Hunter. Learning Nen involves four basic techniques: Ten (shroud aura around body for defense), Zetsu (suppress aura completely), Ren (output more aura for offense), and Hatsu (personal expression of aura). Advanced techniques include Gyo (focus aura on specific body part), In (advanced Zetsu to hide aura), En (expand aura to sense surroundings), Shu (extend aura to an object), Ko (concentrate all aura on one point), Ken (maintain Ren over entire body), and Ryu (real-time redistribution of aura).",
+    "keywords": [
+      "Nen",
+      "aura",
+      "Ten",
+      "Zetsu",
+      "Ren",
+      "Hatsu",
+      "Gyo",
+      "In",
+      "En",
+      "techniques"
+    ]
+  },
+  {
+    "id": "nen_types",
+    "category": "nen",
+    "title": "Nen Categories",
+    "content": "There are six Nen categories arranged in a hexagonal chart: Enhancement (strengthening objects or body), Transmutation (changing aura properties), Conjuration (creating physical objects from aura), Emission (projecting aura away from body), Manipulation (controlling objects or living things), and Specialization (unique abilities that dont fit other categories). A persons Nen type is determined by the Water Divination test: Enhancers increase water volume, Transmuters change taste, Conjurers create impurities, Emitters change water color, Manipulators move the leaf, and Specialists cause other reactions. Each person has highest affinity for their own category and decreasing affinity for adjacent categories.",
+    "keywords": [
+      "Enhancement",
+      "Transmutation",
+      "Conjuration",
+      "Emission",
+      "Manipulation",
+      "Specialization",
+      "Water Divination",
+      "categories"
+    ]
+  },
+  {
+    "id": "nen_vows",
+    "category": "nen",
+    "title": "Nen Restrictions and Vows",
+    "content": "Nen abilities can be made significantly stronger through Limitations and Vows. A Limitation is a restriction placed on an ability that increases its power. A Vow is a binding commitment. The stricter the condition, the more powerful the ability becomes. Kurapika Chain Jail can only be used against Phantom Troupe members, making it extremely powerful against them. Gon Jajanken requires a charging stance that leaves him vulnerable. The ultimate vow is risking death: Gon transformation against Pitou was powered by sacrificing all his future potential. Nen after death can create powerful lingering effects.",
+    "keywords": [
+      "Vow",
+      "Limitation",
+      "restriction",
+      "condition",
+      "power",
+      "death",
+      "sacrifice"
+    ]
+  },
+  {
+    "id": "org_troupe",
+    "category": "organization",
+    "title": "Phantom Troupe",
+    "content": "The Phantom Troupe (also known as the Spider) is a notorious group of thieves with Class A bounties. Founded by Chrollo Lucilfer in Meteor City, they have 13 members, each with a spider tattoo bearing their member number. The original members include: Chrollo (0, leader), Nobunaga (1, samurai swordsman), Feitan (2, pain-powered abilities), Machi (3, Nen stitches), Hisoka (4, former), Franklin (5, bullets from fingers), Shalnark (6, manipulation), Shizuku (8, Blinky vacuum), Pakunoda (9, memory reading), Bonolenov (10, sound abilities), Kortopi (12, copying), and Phinks (5, Ripper Cyclotron). The Troupe massacred the Kurta Clan for their Scarlet Eyes.",
+    "keywords": [
+      "Phantom Troupe",
+      "Spider",
+      "Chrollo",
+      "Meteor City",
+      "thieves",
+      "members"
+    ]
+  },
+  {
+    "id": "org_hunters",
+    "category": "organization",
+    "title": "Hunter Association",
+    "content": "The Hunter Association is an organization of elite individuals known as Hunters. Hunters have access to restricted information, can travel freely between countries, and are licensed to carry weapons. Types of Hunters include Beast Hunters, Crime Hunters, Ruins Hunters, Gourmet Hunters, Music Hunters, and more. The Association is led by a Chairman, with the Zodiac Twelve serving as advisors. Notable members include Netero (12th Chairman), Ging Freecss, Morel, Knov, and many more. The Hunter License is extremely valuable and grants numerous privileges.",
+    "keywords": [
+      "Hunter Association",
+      "Chairman",
+      "Zodiac",
+      "license",
+      "Hunter types"
+    ]
+  },
+  {
+    "id": "loc_whale",
+    "category": "location",
+    "title": "Whale Island",
+    "content": "Whale Island is a small island where Gon Freecss grew up. It is located in the middle of the ocean and is shaped like a whale. Gon was raised there by his aunt Mito and his grandmother. The island has lush forests where Gon developed his enhanced senses by exploring nature. Gon leaves Whale Island at age 12 to take the Hunter Exam.",
+    "keywords": [
+      "Whale Island",
+      "Gon",
+      "home",
+      "Mito",
+      "island"
+    ]
+  },
+  {
+    "id": "loc_kukuroo",
+    "category": "location",
+    "title": "Kukuroo Mountain",
+    "content": "Kukuroo Mountain is the home of the Zoldyck family of assassins. Located in the Republic of Padokea, it is a massive mountain with the Zoldyck estate at its summit. The entrance features the Testing Gate, a set of seven doors each progressively heavier (the first door weighs 4 tons per side). Tour buses bring visitors to see the gate. The mountain is guarded by the massive watchdog Mike and the butler staff including Gotoh and Canary.",
+    "keywords": [
+      "Kukuroo",
+      "Zoldyck",
+      "mountain",
+      "Testing Gate",
+      "Padokea"
+    ]
+  },
+  {
+    "id": "loc_ngl",
+    "category": "location",
+    "title": "NGL and East Gorteau",
+    "content": "NGL (Neo-Green Life) is an autonomous region that rejects modern technology. It is where the Chimera Ant Queen first lands and begins building her colony. East Gorteau is a neighboring country ruled by the dictator Ming Jol-ik, whose palace the Chimera Ant King Meruem takes over. The Palace Invasion to defeat Meruem takes place in the East Gorteau royal palace.",
+    "keywords": [
+      "NGL",
+      "Neo-Green Life",
+      "East Gorteau",
+      "Chimera Ant",
+      "palace"
+    ]
+  },
+  {
+    "id": "gi_cards",
+    "category": "greed_island",
+    "title": "Greed Island Key Cards",
+    "content": "Greed Island features multiple types of cards. Designated Slot cards (100 types) must be collected to win. Free Slot cards are additional useful cards. Spell cards have special effects: Accompany (teleport to a player), Magnetic Force (teleport to a player with consent), Levy (steal cards from another player), Fluoroscopy (see another players cards), Defend (protect against spell cards), Steal (take a specific card). Angel Breath heals any injury. Breath of Archangel resurrects a dead player. Paladin Necklace grants immunity to status effects. The game was created by Ging Freecss and his friends including Razor and Dwun.",
+    "keywords": [
+      "Greed Island",
+      "cards",
+      "spell",
+      "Accompany",
+      "Magnetic Force",
+      "Ging",
+      "designated slot"
+    ]
+  },
+  {
+    "id": "char_bisky",
+    "category": "character",
+    "title": "Biscuit Krueger",
+    "content": "Biscuit Krueger (Bisky) is a Double Star Stone Hunter who appears as a young girl but is actually a 57-year-old muscular woman. Her true form is much larger and more powerful. She is a Transmuter whose ability Cookie-chan (Magical Esthetician) creates a small masseuse that can restore fatigue and enhance training results. She trains Gon and Killua in advanced Nen during the Greed Island arc. Bisky is also Wing teacher.",
+    "keywords": [
+      "Bisky",
+      "Biscuit",
+      "Krueger",
+      "Stone Hunter",
+      "Cookie",
+      "trainer",
+      "Transmuter"
+    ]
+  },
+  {
+    "id": "char_kite",
+    "category": "character",
+    "title": "Kite",
+    "content": "Kite is a student of Ging Freecss and a Contract Hunter. His ability Crazy Slots summons a clown that randomly selects a weapon numbered 1-9. He uses a scythe (number 2) during the Chimera Ant arc. Kite is killed by Neferpitou but his consciousness survives through one of his Crazy Slots numbers (believed to only activate when he has a strong will to survive). He is reborn as a Chimera Ant in the form of a small red-haired girl named Kite.",
+    "keywords": [
+      "Kite",
+      "Ging",
+      "student",
+      "Crazy Slots",
+      "Chimera Ant",
+      "reborn"
+    ]
+  },
+  {
+    "id": "char_alluka",
+    "category": "character",
+    "title": "Alluka Zoldyck and Nanika",
+    "content": "Alluka Zoldyck is the second youngest child of the Zoldyck family. She hosts a mysterious entity called Nanika from the Dark Continent (possibly an Ai). Nanika can grant any wish, but after a major wish, the next three people Alluka makes requests of must comply or die along with their loved ones. The severity of the next requests depends on how big the previous wish was. Killua is the only person who can interact with both Alluka and Nanika safely, as Nanika will obey Killua commands without consequences. Killua uses this power to heal Gon during the Election arc.",
+    "keywords": [
+      "Alluka",
+      "Nanika",
+      "Zoldyck",
+      "wish",
+      "Dark Continent",
+      "Killua"
+    ]
+  },
+  {
+    "id": "char_illumi",
+    "category": "character",
+    "title": "Illumi Zoldyck",
+    "content": "Illumi Zoldyck is the eldest son of the Zoldyck family and a powerful Manipulator. He uses Nen-infused needles to control people and alter their appearance. He disguised himself as Gittarackur during the Hunter Exam. Illumi has an obsessive and controlling relationship with Killua, having planted a needle in his brain to make him flee from dangerous situations. He later joins the Phantom Troupe after Hisoka leaves. Illumi is engaged to Hisoka as part of a contract.",
+    "keywords": [
+      "Illumi",
+      "Zoldyck",
+      "Manipulator",
+      "needles",
+      "Gittarackur",
+      "control"
+    ]
+  },
+  {
+    "id": "char_silva",
+    "category": "character",
+    "title": "Silva Zoldyck",
+    "content": "Silva Zoldyck is the current head of the Zoldyck family and father of five children. He is a powerful assassin who once killed a member of the Phantom Troupe (likely a previous member number 8). Silva fights Chrollo during the Yorknew City arc alongside his father Zeno. Silva ability involves creating large destructive orbs of aura. He allows Killua to leave the family estate, believing Killua will eventually return.",
+    "keywords": [
+      "Silva",
+      "Zoldyck",
+      "father",
+      "assassin",
+      "head of family"
+    ]
+  },
+  {
+    "id": "char_morel",
+    "category": "character",
+    "title": "Morel Mackernasey",
+    "content": "Morel Mackernasey is a Single Star Sea Hunter and one of the top Nen users selected by Netero for the Chimera Ant extermination mission. He is a Manipulator who uses his giant smoking pipe to create smoke constructs. His abilities include Deep Purple (creates smoke soldiers), Smoky Jail (traps opponents in a smoke prison). Morel is wise, experienced, and often serves as a strategist during the Chimera Ant arc.",
+    "keywords": [
+      "Morel",
+      "Sea Hunter",
+      "smoke",
+      "Deep Purple",
+      "Chimera Ant",
+      "Manipulator"
+    ]
+  },
+  {
+    "id": "char_komugi",
+    "category": "character",
+    "title": "Komugi",
+    "content": "Komugi is the world champion of Gungi, a board game in the Hunter x Hunter universe. She is blind and physically frail but possesses unmatched strategic genius. The Chimera Ant King Meruem initially sees her as a tool to prove his superiority but repeatedly loses to her. Through their games, Meruem develops genuine emotions and compassion. Komugi chooses to stay with Meruem as he dies from the Poor Man Rose poison, dying alongside him. Their relationship is one of the most emotionally significant in the series.",
+    "keywords": [
+      "Komugi",
+      "Gungi",
+      "Meruem",
+      "blind",
+      "champion",
+      "board game"
+    ]
+  },
+  {
+    "id": "rel_gon_killua",
+    "category": "relationship",
+    "title": "Gon and Killua Friendship",
+    "content": "Gon and Killua share the central friendship of Hunter x Hunter. They meet during the Hunter Exam and quickly become best friends despite their vastly different backgrounds. Gon is raised in nature while Killua is trained as an assassin. Their bond drives much of the story: Killua protects Gon from dangers, and Gon helps Killua escape his family toxic influence. Their friendship is tested during the Chimera Ant arc when Gon becomes consumed by rage over Kite death, shutting Killua out. After Gon is healed by Alluka/Nanika they part ways, with Killua choosing to travel with Alluka.",
+    "keywords": [
+      "Gon",
+      "Killua",
+      "friendship",
+      "bond",
+      "best friends"
+    ]
+  },
+  {
+    "id": "char_phantom_members",
+    "category": "organization",
+    "title": "Phantom Troupe Members Details",
+    "content": "The Phantom Troupe consists of 13 members. Feitan Portor is an expert torturer whose ability Rising Sun creates a miniature sun from pain he endured. Machi Komacine uses Nen Stitches to sew wounds and create strong threads. Nobunaga Hazama is a samurai-type fighter with an En-based sword style. Shalnark is a Manipulator who can control people with his phone antenna. Shizuku Murasaki uses a Nen vacuum cleaner called Blinky (Deme-chan) that can suck up anything except living things and Nen objects. Phinks Magcub uses Ripper Cyclotron where each arm rotation increases punch power. Franklin Bordeau shoots Nen bullets from his fingertips. Bonolenov Ndongo uses holes in his body to create sounds and conjure objects through Battle Cantabile. Pakunoda could read memories by touching people and share them via Memory Bomb bullets. Uvogin was the physically strongest member, an Enhancer with a Big Bang Impact punch.",
+    "keywords": [
+      "Phantom Troupe",
+      "Feitan",
+      "Machi",
+      "Nobunaga",
+      "Shalnark",
+      "Shizuku",
+      "Phinks",
+      "Franklin",
+      "Bonolenov",
+      "Pakunoda",
+      "Uvogin"
+    ]
+  }
+]
