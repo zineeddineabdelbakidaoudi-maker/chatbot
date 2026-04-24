@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { searchVectorStore, initializeVectorStore } from "@/lib/vectorStore";
 import { analyzeImage } from "@/lib/groq";
+import { processQueryText } from "@/lib/normalize";
 
 /**
  * Image recognition endpoint.
@@ -19,26 +20,40 @@ export async function POST(request) {
     // Analyze image with Groq Vision
     const analysis = await analyzeImage(imageBase64, mimeType || "image/png");
 
-    // If a character was identified, retrieve more info
-    let additionalInfo = null;
-    if (analysis.character && analysis.confidence !== "none") {
-      await initializeVectorStore();
-      const results = await searchVectorStore(analysis.character, 3, "character");
-      if (results.length > 0) {
-        additionalInfo = results.map((r) => ({ title: r.title, content: r.content, score: r.score }));
-      }
+    if (analysis.in_domain !== "yes" || !analysis.character || analysis.character === "unknown") {
+      return NextResponse.json({
+        reply: "I can only identify Hunter x Hunter characters. This image does not appear to match a supported HxH character.",
+        analysis,
+        additionalInfo: null
+      });
     }
+
+    // Normalize character name
+    const normalizedChar = processQueryText(analysis.character);
+
+    // If a character was identified, validate against knowledge base
+    let additionalInfo = null;
+    await initializeVectorStore();
+    const results = await searchVectorStore(normalizedChar, 1, "character");
+    
+    if (!results || results.length === 0 || results[0].score < 1.0) {
+      return NextResponse.json({
+        reply: "I can only identify Hunter x Hunter characters. This image does not appear to match a supported HxH character.",
+        analysis,
+        additionalInfo: null
+      });
+    }
+
+    additionalInfo = results.map((r) => ({ title: r.title, content: r.content, score: r.score }));
 
     // Build response text
     let responseText = "";
     if (analysis.confidence === "high") {
-      responseText = `This is **${analysis.character}**! ${analysis.description}`;
+      responseText = `This is **${analysis.character}**!`;
     } else if (analysis.confidence === "medium") {
-      responseText = `I believe this is **${analysis.character}**. ${analysis.description}`;
-    } else if (analysis.confidence === "low") {
-      responseText = `I am not fully sure, but this may be **${analysis.character}**. ${analysis.description}`;
+      responseText = `I believe this is **${analysis.character}**.`;
     } else {
-      responseText = analysis.description || "I couldn't identify a Hunter x Hunter character in this image.";
+      responseText = `I am not fully sure, but this may be **${analysis.character}**.`;
     }
 
     if (additionalInfo && additionalInfo.length > 0) {
